@@ -1,0 +1,24 @@
+C:\code\RoguePac\RoguePac\bin\Debug\RoguePac.exe
+C:\code\RoguePac\RoguePac\bin\Debug\RoguePac.pdb
+C:\code\RoguePac\RoguePac\bin\Debug\RoguePac.xml
+C:\code\RoguePac\RoguePac\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\code\RoguePac\RoguePac\obj\x86\Debug\RoguePac.Form1.resources
+C:\code\RoguePac\RoguePac\obj\x86\Debug\RoguePac.Resources.resources
+C:\code\RoguePac\RoguePac\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\code\RoguePac\RoguePac\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\code\RoguePac\RoguePac\obj\x86\Debug\RoguePac.exe
+C:\code\RoguePac\RoguePac\obj\x86\Debug\RoguePac.xml
+C:\code\RoguePac\RoguePac\obj\x86\Debug\RoguePac.pdb
+C:\code\RoguePac\RoguePac\obj\x86\Debug\RoguePac.Intro.resources
+C:\code\RoguePac 2015 7DRL VB\v1.1\RoguePac\obj\x86\Debug\RoguePac.exe
+C:\code\RoguePac 2015 7DRL VB\v1.1\RoguePac\obj\x86\Debug\RoguePac.xml
+C:\code\RoguePac 2015 7DRL VB\v1.1\RoguePac\obj\x86\Debug\RoguePac.pdb
+C:\code\RoguePac 2015 7DRL VB\v1.1\RoguePac\bin\Debug\RoguePac.exe
+C:\code\RoguePac 2015 7DRL VB\v1.1\RoguePac\bin\Debug\RoguePac.pdb
+C:\code\RoguePac 2015 7DRL VB\v1.1\RoguePac\bin\Debug\RoguePac.xml
+C:\code\RoguePac 2015 7DRL VB\v1.1\RoguePac\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\code\RoguePac 2015 7DRL VB\v1.1\RoguePac\obj\x86\Debug\RoguePac.Form1.resources
+C:\code\RoguePac 2015 7DRL VB\v1.1\RoguePac\obj\x86\Debug\RoguePac.Intro.resources
+C:\code\RoguePac 2015 7DRL VB\v1.1\RoguePac\obj\x86\Debug\RoguePac.Resources.resources
+C:\code\RoguePac 2015 7DRL VB\v1.1\RoguePac\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\code\RoguePac 2015 7DRL VB\v1.1\RoguePac\obj\x86\Debug\GenerateResource.write.1.tlog
